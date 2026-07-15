@@ -1,0 +1,8 @@
+*.bin 
+*.elf 
+*.map 
+*.json 
+*.csv 
+sdkconfig 
+flash_args 
+build.options.json 
